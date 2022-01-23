@@ -1,3 +1,3 @@
-Output - 
-![](assets/1-min.jpg)
-![](assets/2-min.jpg)
+![1](https://github.com/taup-os/test-tmdb-app/blob/main/1.jpg)
+
+![2](https://github.com/taup-os/test-tmdb-app/blob/main/2.jpg)
